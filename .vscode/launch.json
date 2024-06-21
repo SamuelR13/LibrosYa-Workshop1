@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-LibrosYaApplication<LibrosYa>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "io.riwi.LibrosYa.LibrosYaApplication",
+            "projectName": "LibrosYa",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
